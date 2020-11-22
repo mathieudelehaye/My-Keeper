@@ -1,4 +1,4 @@
 # My-Keeper
 A clone of Google Keep developed with React.js
 
-<img src="Screenshot-01.png" alt="My-Keeper-screenshot-01" width="800" />
+<img src="Screenshot.png" alt="My-Keeper-screenshot" width="700" />
